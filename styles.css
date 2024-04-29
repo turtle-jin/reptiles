@@ -14,7 +14,7 @@ body {
     /* justify-content: center; */
     align-items: center;
     perspective: 1100px;
-    gap: 5rem;
+    gap: 2rem;
     color: #1e181c;
     
     
@@ -24,11 +24,20 @@ h1 {
     /* border: solid white; */
     margin-top: 5rem;
    font-size: 5em;
-   color: #057025;
-    text-shadow: 0 0 10px #110442,
-    0 0 20px #4b0bab,
-    0 0 40px #420bb0,
-    0 0 80px #720ca9; 
+   color: #032e12;
+    text-shadow: 0 0 10px #147a9f,
+    0 0 20px #147a9f,
+    0 0 40px #147a9f,
+    0 0 80px #147a9f; 
+}
+
+h3 {
+    font-size: 2rem;
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4,
+    0 0 20px #03bcf4,
+    0 0 40px #03bcf4,
+    0 0 80px #03bcf4;     
 }
 .pic{
     margin-top: 200px;
